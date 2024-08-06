@@ -17,3 +17,7 @@ This repository contains a collection of Python projects and examples organized 
 - **Threads**: Offers Python examples and resources related to multi-threading and concurrency in programming.
 
 All projects in this repository are developed using Python. Navigate each directory to explore specific details and examples.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
